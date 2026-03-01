@@ -1,7 +1,5 @@
 # Privacy Policy
 
-**Last updated: February 28, 2026**
-
 Cadence ("the app") is developed by Sampath Mora. This privacy policy explains how the app handles your data.
 
 ## Data Collection
